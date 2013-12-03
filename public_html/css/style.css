@@ -1,0 +1,15 @@
+ html, body, #map-canvas,#main,#conteneur {
+        height: 100%;
+          font-family: helvetica, arial;
+        margin: 0px;
+        padding: 0px
+      }
+
+      #conteneur{
+          width: 66%;
+          float: left;
+
+}
+      #map-canvas{
+          width: 34%;
+}
